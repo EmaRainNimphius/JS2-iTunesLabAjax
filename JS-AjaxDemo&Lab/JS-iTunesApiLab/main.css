@@ -1,0 +1,58 @@
+.container{
+    text-align: center;
+    margin-top: 75px;
+    margin-left: 750px;
+    margin-right: 750px;
+}
+
+.card{
+    border: 2px solid black;
+    border-radius: 12px;
+    padding-bottom: 25px;
+    background-color: #C4C1BC;
+}
+
+#artist{
+    background-color: #f4f3f1;
+}
+
+.button {
+    padding: 5px 15px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    border: 2px solid #037148;
+
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.output{
+    text-align: start;
+    margin-top: 30px;
+}
+
+.header-body{
+    margin-top: 5px;
+    padding-top: 0;
+}
+
+.header-title{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#invalidInput{
+    text-align: center;
+}
